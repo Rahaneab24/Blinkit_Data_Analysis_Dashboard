@@ -20,8 +20,8 @@ Outlet Size and Location Analysis: Provides insights on sales performance by out
 Outlet Type Comparison: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility<br>
 
 ## Insights and Conclusions
-Strong overall sales performance with over $1M in total sales<br>
-Consumer preference for low-fat products, indicating health-conscious buying habits<br>
-Fruits, vegetables, and snack foods are the top-selling categories<br>
-Medium-sized outlets in Tier 3 locations show the highest profitability<br>
-Supermarkets generate higher sales volumes, while grocery stores have better item visibility<br>
+1. Strong overall sales performance with over $1M in total sales<br>
+2. Consumer preference for low-fat products, indicating health-conscious buying habits<br>
+3. Fruits, vegetables, and snack foods are the top-selling categories<br>
+4. Medium-sized outlets in Tier 3 locations show the highest profitability<br>
+5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility<br>
